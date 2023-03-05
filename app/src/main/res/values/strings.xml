@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application Practica 06 - DSM104</string>
+    <string name="contrasena">Forgot your password?</string>
+    <string name="saltar">Skip</string>
+    <string name="salir">Exit</string>
+    <string name="conectar">Connect</string>
+    <string name="correo">Email</string>
+    <string name="contra">Password</string>
+    <string name="iniciar_sesion">Log In</string>
+    <string name="nombres">First Name</string>
+    <string name="apellidos">Last Name</string>
+    <string name="producto">Product</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="envio">Shipping Cost</string>
+    <string name="cupon">Coupon</string>
+    <string name="total">Total</string>
+</resources>
